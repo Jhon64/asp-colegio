@@ -1,0 +1,12 @@
+D:\Asp.net core\eCommerce\ENTITY\bin\Debug\net5.0\Entity.deps.json
+D:\Asp.net core\eCommerce\ENTITY\bin\Debug\net5.0\Entity.dll
+D:\Asp.net core\eCommerce\ENTITY\bin\Debug\net5.0\ref\Entity.dll
+D:\Asp.net core\eCommerce\ENTITY\bin\Debug\net5.0\Entity.pdb
+D:\Asp.net core\eCommerce\ENTITY\obj\Debug\net5.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+D:\Asp.net core\eCommerce\ENTITY\obj\Debug\net5.0\Entity.AssemblyInfoInputs.cache
+D:\Asp.net core\eCommerce\ENTITY\obj\Debug\net5.0\Entity.AssemblyInfo.cs
+D:\Asp.net core\eCommerce\ENTITY\obj\Debug\net5.0\Entity.csproj.CoreCompileInputs.cache
+D:\Asp.net core\eCommerce\ENTITY\obj\Debug\net5.0\Entity.dll
+D:\Asp.net core\eCommerce\ENTITY\obj\Debug\net5.0\ref\Entity.dll
+D:\Asp.net core\eCommerce\ENTITY\obj\Debug\net5.0\Entity.pdb
+D:\Asp.net core\eCommerce\ENTITY\obj\Debug\net5.0\Entity.csprojAssemblyReference.cache

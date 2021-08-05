@@ -1,0 +1,12 @@
+D:\Asp.net core\eCommerce\ENTITY\bin\Release\net5.0\EntityMongo.deps.json
+D:\Asp.net core\eCommerce\ENTITY\bin\Release\net5.0\EntityMongo.dll
+D:\Asp.net core\eCommerce\ENTITY\bin\Release\net5.0\ref\EntityMongo.dll
+D:\Asp.net core\eCommerce\ENTITY\bin\Release\net5.0\EntityMongo.pdb
+D:\Asp.net core\eCommerce\ENTITY\obj\Release\net5.0\EntityMongo.csprojAssemblyReference.cache
+D:\Asp.net core\eCommerce\ENTITY\obj\Release\net5.0\EntityMongo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Asp.net core\eCommerce\ENTITY\obj\Release\net5.0\EntityMongo.AssemblyInfoInputs.cache
+D:\Asp.net core\eCommerce\ENTITY\obj\Release\net5.0\EntityMongo.AssemblyInfo.cs
+D:\Asp.net core\eCommerce\ENTITY\obj\Release\net5.0\EntityMongo.csproj.CoreCompileInputs.cache
+D:\Asp.net core\eCommerce\ENTITY\obj\Release\net5.0\EntityMongo.dll
+D:\Asp.net core\eCommerce\ENTITY\obj\Release\net5.0\ref\EntityMongo.dll
+D:\Asp.net core\eCommerce\ENTITY\obj\Release\net5.0\EntityMongo.pdb

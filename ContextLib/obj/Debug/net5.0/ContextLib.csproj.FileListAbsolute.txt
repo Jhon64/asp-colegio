@@ -1,0 +1,17 @@
+D:\Asp.net core\eCommerce\ContextLib\bin\Debug\net5.0\ContextLib.deps.json
+D:\Asp.net core\eCommerce\ContextLib\bin\Debug\net5.0\ContextLib.dll
+D:\Asp.net core\eCommerce\ContextLib\bin\Debug\net5.0\ref\ContextLib.dll
+D:\Asp.net core\eCommerce\ContextLib\bin\Debug\net5.0\ContextLib.pdb
+D:\Asp.net core\eCommerce\ContextLib\bin\Debug\net5.0\EntityMongo.dll
+D:\Asp.net core\eCommerce\ContextLib\bin\Debug\net5.0\EntitySQL.dll
+D:\Asp.net core\eCommerce\ContextLib\bin\Debug\net5.0\EntitySQL.pdb
+D:\Asp.net core\eCommerce\ContextLib\bin\Debug\net5.0\EntityMongo.pdb
+D:\Asp.net core\eCommerce\ContextLib\obj\Debug\net5.0\ContextLib.csprojAssemblyReference.cache
+D:\Asp.net core\eCommerce\ContextLib\obj\Debug\net5.0\ContextLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Asp.net core\eCommerce\ContextLib\obj\Debug\net5.0\ContextLib.AssemblyInfoInputs.cache
+D:\Asp.net core\eCommerce\ContextLib\obj\Debug\net5.0\ContextLib.AssemblyInfo.cs
+D:\Asp.net core\eCommerce\ContextLib\obj\Debug\net5.0\ContextLib.csproj.CoreCompileInputs.cache
+D:\Asp.net core\eCommerce\ContextLib\obj\Debug\net5.0\ContextLib.csproj.CopyComplete
+D:\Asp.net core\eCommerce\ContextLib\obj\Debug\net5.0\ContextLib.dll
+D:\Asp.net core\eCommerce\ContextLib\obj\Debug\net5.0\ref\ContextLib.dll
+D:\Asp.net core\eCommerce\ContextLib\obj\Debug\net5.0\ContextLib.pdb

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="appColegioAsp" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="appColegioAsp">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$/Apis/Apis.csproj" web="/" />
+            <mapping local="$PROJECT_DIR$/Apis/AppDbContext.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/Apis/Controllers/UsuarioController.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/Apis/Controllers/WeatherForecastController.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/Apis/Controllers/mongo/MenuController.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/Apis/Program.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/Apis/Properties/launchSettings.json" web="/" />
+            <mapping local="$PROJECT_DIR$/Apis/Startup.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/Apis/WeatherForecast.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/Apis/appsettings.Development.json" web="/" />
+            <mapping local="$PROJECT_DIR$/Apis/appsettings.json" web="/" />
+            <mapping local="$PROJECT_DIR$/Apis/obj/Debug/net5.0/Apis.AssemblyInfo.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/ContextLib/ContextLib.csproj" web="/" />
+            <mapping local="$PROJECT_DIR$/ContextLib/MenuContext.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/ContextLib/obj/Debug/net5.0/ContextLib.AssemblyInfo.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/DTO/DTO.csproj" web="/" />
+            <mapping local="$PROJECT_DIR$/DTO/ProductoDTO.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/DTO/UsuarioCreateDTO.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/DTO/UsuarioDTO.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/DTO/mongo/MenuDTO.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/DTO/obj/Debug/net5.0/DTO.AssemblyInfo.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/Databases/ConexionMongo.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/Databases/Databases.csproj" web="/" />
+            <mapping local="$PROJECT_DIR$/Databases/SQLServerDB.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/Databases/obj/Debug/net5.0/Databases.AssemblyInfo.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/ENTITY/DetalleUsuario.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/ENTITY/EntityMongo.csproj" web="/" />
+            <mapping local="$PROJECT_DIR$/ENTITY/Menu.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/ENTITY/Submenu.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/ENTITY/Usuario.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/ENTITY/obj/Debug/net5.0/EntityMongo.AssemblyInfo.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/EntitySQL/EntitySQL.csproj" web="/" />
+            <mapping local="$PROJECT_DIR$/EntitySQL/Persona.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/EntitySQL/Usuario.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/EntitySQL/obj/Debug/net5.0/EntitySQL.AssemblyInfo.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/Repository/PersonaRepository.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/Repository/Repository.csproj" web="/" />
+            <mapping local="$PROJECT_DIR$/Repository/UsuarioRepository.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/Repository/mongo/MenuRepository.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/Repository/mongo/SubMenuRepository.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/Repository/obj/Debug/net5.0/Repository.AssemblyInfo.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/RepositoryImpl/ImpUsuarioRepository.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/RepositoryImpl/PersonaRepositoryImpl.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/RepositoryImpl/RepositoryImpl.csproj" web="/" />
+            <mapping local="$PROJECT_DIR$/RepositoryImpl/mongo/MenuRepositoryImpl.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/RepositoryImpl/mongo/SubMenuRepositoryImpl.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/RepositoryImpl/obj/Debug/net5.0/RepositoryImpl.AssemblyInfo.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/Service/Service.csproj" web="/" />
+            <mapping local="$PROJECT_DIR$/Service/UsuarioService.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/Service/mongo/MenuService.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/Service/obj/Debug/net5.0/Service.AssemblyInfo.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/ServiceImpl/ServiceImpl.csproj" web="/" />
+            <mapping local="$PROJECT_DIR$/ServiceImpl/UsuarioServiceImpl.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/ServiceImpl/mongo/MenuServiceImpl.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/ServiceImpl/obj/Debug/net5.0/ServiceImpl.AssemblyInfo.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/TestsApp/Program.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/TestsApp/TestSQL.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/TestsApp/TestsApp.csproj" web="/" />
+            <mapping local="$PROJECT_DIR$/TestsApp/obj/Debug/net5.0/TestsApp.AssemblyInfo.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/eCommerce.sln" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

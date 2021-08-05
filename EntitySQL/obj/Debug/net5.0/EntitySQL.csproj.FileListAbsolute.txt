@@ -1,0 +1,12 @@
+D:\Asp.net core\eCommerce\EntitySQL\bin\Debug\net5.0\EntitySQL.deps.json
+D:\Asp.net core\eCommerce\EntitySQL\bin\Debug\net5.0\EntitySQL.dll
+D:\Asp.net core\eCommerce\EntitySQL\bin\Debug\net5.0\ref\EntitySQL.dll
+D:\Asp.net core\eCommerce\EntitySQL\bin\Debug\net5.0\EntitySQL.pdb
+D:\Asp.net core\eCommerce\EntitySQL\obj\Debug\net5.0\EntitySQL.csprojAssemblyReference.cache
+D:\Asp.net core\eCommerce\EntitySQL\obj\Debug\net5.0\EntitySQL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Asp.net core\eCommerce\EntitySQL\obj\Debug\net5.0\EntitySQL.AssemblyInfoInputs.cache
+D:\Asp.net core\eCommerce\EntitySQL\obj\Debug\net5.0\EntitySQL.AssemblyInfo.cs
+D:\Asp.net core\eCommerce\EntitySQL\obj\Debug\net5.0\EntitySQL.csproj.CoreCompileInputs.cache
+D:\Asp.net core\eCommerce\EntitySQL\obj\Debug\net5.0\EntitySQL.dll
+D:\Asp.net core\eCommerce\EntitySQL\obj\Debug\net5.0\ref\EntitySQL.dll
+D:\Asp.net core\eCommerce\EntitySQL\obj\Debug\net5.0\EntitySQL.pdb

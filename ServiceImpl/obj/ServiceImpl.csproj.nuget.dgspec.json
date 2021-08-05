@@ -1,0 +1,503 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Asp.net core\\eCommerce\\ServiceImpl\\ServiceImpl.csproj": {}
+  },
+  "projects": {
+    "D:\\Asp.net core\\eCommerce\\Databases\\Databases.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Asp.net core\\eCommerce\\Databases\\Databases.csproj",
+        "projectName": "Databases",
+        "projectPath": "D:\\Asp.net core\\eCommerce\\Databases\\Databases.csproj",
+        "packagesPath": "C:\\Users\\jon_1\\.nuget\\packages\\",
+        "outputPath": "D:\\Asp.net core\\eCommerce\\Databases\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jon_1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.12.4, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Asp.net core\\eCommerce\\DTO\\DTO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Asp.net core\\eCommerce\\DTO\\DTO.csproj",
+        "projectName": "DTO",
+        "projectPath": "D:\\Asp.net core\\eCommerce\\DTO\\DTO.csproj",
+        "packagesPath": "C:\\Users\\jon_1\\.nuget\\packages\\",
+        "outputPath": "D:\\Asp.net core\\eCommerce\\DTO\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jon_1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Asp.net core\\eCommerce\\EntitySQL\\EntitySQL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Asp.net core\\eCommerce\\EntitySQL\\EntitySQL.csproj",
+        "projectName": "EntitySQL",
+        "projectPath": "D:\\Asp.net core\\eCommerce\\EntitySQL\\EntitySQL.csproj",
+        "packagesPath": "C:\\Users\\jon_1\\.nuget\\packages\\",
+        "outputPath": "D:\\Asp.net core\\eCommerce\\EntitySQL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jon_1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Asp.net core\\eCommerce\\ENTITY\\EntityMongo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Asp.net core\\eCommerce\\ENTITY\\EntityMongo.csproj",
+        "projectName": "EntityMongo",
+        "projectPath": "D:\\Asp.net core\\eCommerce\\ENTITY\\EntityMongo.csproj",
+        "packagesPath": "C:\\Users\\jon_1\\.nuget\\packages\\",
+        "outputPath": "D:\\Asp.net core\\eCommerce\\ENTITY\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jon_1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "MongoDB.Bson": {
+              "target": "Package",
+              "version": "[2.12.4, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.12.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Asp.net core\\eCommerce\\RepositoryImpl\\RepositoryImpl.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Asp.net core\\eCommerce\\RepositoryImpl\\RepositoryImpl.csproj",
+        "projectName": "RepositoryImpl",
+        "projectPath": "D:\\Asp.net core\\eCommerce\\RepositoryImpl\\RepositoryImpl.csproj",
+        "packagesPath": "C:\\Users\\jon_1\\.nuget\\packages\\",
+        "outputPath": "D:\\Asp.net core\\eCommerce\\RepositoryImpl\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jon_1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Asp.net core\\eCommerce\\Databases\\Databases.csproj": {
+                "projectPath": "D:\\Asp.net core\\eCommerce\\Databases\\Databases.csproj"
+              },
+              "D:\\Asp.net core\\eCommerce\\Repository\\Repository.csproj": {
+                "projectPath": "D:\\Asp.net core\\eCommerce\\Repository\\Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Asp.net core\\eCommerce\\Repository\\Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Asp.net core\\eCommerce\\Repository\\Repository.csproj",
+        "projectName": "Repository",
+        "projectPath": "D:\\Asp.net core\\eCommerce\\Repository\\Repository.csproj",
+        "packagesPath": "C:\\Users\\jon_1\\.nuget\\packages\\",
+        "outputPath": "D:\\Asp.net core\\eCommerce\\Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jon_1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Asp.net core\\eCommerce\\EntitySQL\\EntitySQL.csproj": {
+                "projectPath": "D:\\Asp.net core\\eCommerce\\EntitySQL\\EntitySQL.csproj"
+              },
+              "D:\\Asp.net core\\eCommerce\\ENTITY\\EntityMongo.csproj": {
+                "projectPath": "D:\\Asp.net core\\eCommerce\\ENTITY\\EntityMongo.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Asp.net core\\eCommerce\\ServiceImpl\\ServiceImpl.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Asp.net core\\eCommerce\\ServiceImpl\\ServiceImpl.csproj",
+        "projectName": "ServiceImpl",
+        "projectPath": "D:\\Asp.net core\\eCommerce\\ServiceImpl\\ServiceImpl.csproj",
+        "packagesPath": "C:\\Users\\jon_1\\.nuget\\packages\\",
+        "outputPath": "D:\\Asp.net core\\eCommerce\\ServiceImpl\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jon_1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Asp.net core\\eCommerce\\DTO\\DTO.csproj": {
+                "projectPath": "D:\\Asp.net core\\eCommerce\\DTO\\DTO.csproj"
+              },
+              "D:\\Asp.net core\\eCommerce\\RepositoryImpl\\RepositoryImpl.csproj": {
+                "projectPath": "D:\\Asp.net core\\eCommerce\\RepositoryImpl\\RepositoryImpl.csproj"
+              },
+              "D:\\Asp.net core\\eCommerce\\Repository\\Repository.csproj": {
+                "projectPath": "D:\\Asp.net core\\eCommerce\\Repository\\Repository.csproj"
+              },
+              "D:\\Asp.net core\\eCommerce\\Service\\Service.csproj": {
+                "projectPath": "D:\\Asp.net core\\eCommerce\\Service\\Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Asp.net core\\eCommerce\\Service\\Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Asp.net core\\eCommerce\\Service\\Service.csproj",
+        "projectName": "Service",
+        "projectPath": "D:\\Asp.net core\\eCommerce\\Service\\Service.csproj",
+        "packagesPath": "C:\\Users\\jon_1\\.nuget\\packages\\",
+        "outputPath": "D:\\Asp.net core\\eCommerce\\Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jon_1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Asp.net core\\eCommerce\\DTO\\DTO.csproj": {
+                "projectPath": "D:\\Asp.net core\\eCommerce\\DTO\\DTO.csproj"
+              },
+              "D:\\Asp.net core\\eCommerce\\EntitySQL\\EntitySQL.csproj": {
+                "projectPath": "D:\\Asp.net core\\eCommerce\\EntitySQL\\EntitySQL.csproj"
+              },
+              "D:\\Asp.net core\\eCommerce\\ENTITY\\EntityMongo.csproj": {
+                "projectPath": "D:\\Asp.net core\\eCommerce\\ENTITY\\EntityMongo.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

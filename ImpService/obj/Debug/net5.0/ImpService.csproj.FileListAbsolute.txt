@@ -1,0 +1,11 @@
+D:\Asp.net core\eCommerce\ImpService\bin\Debug\net5.0\ImpService.deps.json
+D:\Asp.net core\eCommerce\ImpService\bin\Debug\net5.0\ImpService.dll
+D:\Asp.net core\eCommerce\ImpService\bin\Debug\net5.0\ref\ImpService.dll
+D:\Asp.net core\eCommerce\ImpService\bin\Debug\net5.0\ImpService.pdb
+D:\Asp.net core\eCommerce\ImpService\obj\Debug\net5.0\ImpService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Asp.net core\eCommerce\ImpService\obj\Debug\net5.0\ImpService.AssemblyInfoInputs.cache
+D:\Asp.net core\eCommerce\ImpService\obj\Debug\net5.0\ImpService.AssemblyInfo.cs
+D:\Asp.net core\eCommerce\ImpService\obj\Debug\net5.0\ImpService.csproj.CoreCompileInputs.cache
+D:\Asp.net core\eCommerce\ImpService\obj\Debug\net5.0\ImpService.dll
+D:\Asp.net core\eCommerce\ImpService\obj\Debug\net5.0\ref\ImpService.dll
+D:\Asp.net core\eCommerce\ImpService\obj\Debug\net5.0\ImpService.pdb

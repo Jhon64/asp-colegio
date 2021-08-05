@@ -1,0 +1,12 @@
+D:\Asp.net core\eCommerce\Databases\bin\Release\net5.0\Databases.deps.json
+D:\Asp.net core\eCommerce\Databases\bin\Release\net5.0\Databases.dll
+D:\Asp.net core\eCommerce\Databases\bin\Release\net5.0\ref\Databases.dll
+D:\Asp.net core\eCommerce\Databases\bin\Release\net5.0\Databases.pdb
+D:\Asp.net core\eCommerce\Databases\obj\Release\net5.0\Databases.csprojAssemblyReference.cache
+D:\Asp.net core\eCommerce\Databases\obj\Release\net5.0\Databases.GeneratedMSBuildEditorConfig.editorconfig
+D:\Asp.net core\eCommerce\Databases\obj\Release\net5.0\Databases.AssemblyInfoInputs.cache
+D:\Asp.net core\eCommerce\Databases\obj\Release\net5.0\Databases.AssemblyInfo.cs
+D:\Asp.net core\eCommerce\Databases\obj\Release\net5.0\Databases.csproj.CoreCompileInputs.cache
+D:\Asp.net core\eCommerce\Databases\obj\Release\net5.0\Databases.dll
+D:\Asp.net core\eCommerce\Databases\obj\Release\net5.0\ref\Databases.dll
+D:\Asp.net core\eCommerce\Databases\obj\Release\net5.0\Databases.pdb
