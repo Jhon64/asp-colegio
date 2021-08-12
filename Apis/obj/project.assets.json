@@ -2492,6 +2492,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
+          "DTO": "1.0.0",
           "EntityMongo": "1.0.0",
           "EntitySQL": "1.0.0"
         },
@@ -2506,6 +2507,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
+          "AutoMapper": "10.1.1",
           "Databases": "1.0.0",
           "Repository": "1.0.0"
         },

@@ -7,12 +7,13 @@ using EntityMongo;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
+using MongoDB.Driver;
 using Service.mongo;
 using ServiceImpl.mongo;
 
 namespace Apis.Controllers.mongo
 {
-    [Route("api/[controller]")]
+    [Route("api/menu")]
     [ApiController]
     public class MenuController : ControllerBase
     {
@@ -35,30 +36,38 @@ namespace Apis.Controllers.mongo
         }
 
         // GET: api/Menu/5
-        [HttpGet("{id}", Name = "Get")]
-        public string Get(int id)
+        [HttpGet("{id}")]
+        public MenuDTO Get(string id)
         {
-            return "value";
+            return _menuService.findById(id);
         }
 
         // POST: api/Menu
         [HttpPost]
         
-        public void Post([FromBody] MenuDTO newMenu)
+        public void Post([FromBody] MenuCreateDTO newMenu)
         {
              _menuService.save(newMenu);   
         }
 
         // PUT: api/Menu/5
-        [HttpPut("{id}")]
-        public void Put(int id, [FromBody] string value)
+        [HttpPut()]
+        public TaskStatus Put(MenuDTO updateMenu )
         {
+            return _menuService.actualizar(updateMenu);
         }
 
         // DELETE: api/Menu/5
-        [HttpDelete("{id}")]
-        public void Delete(int id)
+        [HttpDelete("{_id}")]
+        public TaskStatus Delete(string _id)
         {
+            return _menuService.eliminar(_id);
+        }
+
+        [HttpGet("listar/submenus")]
+        public ICollection<MenuSubmenuDTO> listarMenuSubmenus()
+        {
+            return _menuService.listarMenuSubmenus();
         }
     }
 }

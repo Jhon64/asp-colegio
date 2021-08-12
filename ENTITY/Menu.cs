@@ -23,7 +23,7 @@ namespace EntityMongo
         public string clases { get; set; }
         public string color { get; set; }
 
-        [DataMember]
-        public List<Submenu> submenus { get; set; }
+        
+        //public List<Submenu> submenus { get; set; }
     }
 }

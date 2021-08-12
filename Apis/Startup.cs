@@ -36,6 +36,7 @@ namespace Apis
             //Agregamos las dependencias para poder usar en el controllador
             services.AddScoped<UsuarioService,UsuarioServiceImpl>();
             services.AddScoped<MenuService,MenuServiceImpl>();
+            services.AddScoped<SubmenuService,SubmenuServiceImpl>();
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "Apis", Version = "v1" });

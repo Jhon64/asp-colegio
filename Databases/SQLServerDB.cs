@@ -11,12 +11,13 @@ namespace Databases
     {
         private static  SQLServerDB sqlserverDB;
         private static SqlConnection sqlConnection;
-        private static string cadenaConexion;
+        private static string cadenaConexion= "workstation id=ecommerceSQL.mssql.somee.com;packet size=4096;user id=jhon64_SQLLogin_1;pwd=v9ph5i75kt;data source=ecommerceSQL.mssql.somee.com;persist security info=False;initial catalog=ecommerceSQL";
 
         private SQLServerDB() {
-            cadenaConexion = "workstation id=ecommerceSQL.mssql.somee.com;packet size=4096;user id=jhon64_SQLLogin_1;pwd=v9ph5i75kt;data source=ecommerceSQL.mssql.somee.com;persist security info=False;initial catalog=ecommerceSQL";
+  
             sqlConnection = new SqlConnection(cadenaConexion);
         }
+        public static string _getCadenaConexion() { return cadenaConexion; }
         public static SqlConnection sqlConection()
         {
             if (sqlConnection == null)

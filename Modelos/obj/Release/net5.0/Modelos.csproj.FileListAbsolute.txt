@@ -1,0 +1,6 @@
+D:\Asp.net core\eCommerce\Modelos\obj\Release\net5.0\Modelos.csprojAssemblyReference.cache
+D:\Asp.net core\eCommerce\Modelos\obj\Release\net5.0\Modelos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Asp.net core\eCommerce\Modelos\obj\Release\net5.0\Modelos.AssemblyInfoInputs.cache
+D:\Asp.net core\eCommerce\Modelos\obj\Release\net5.0\Modelos.AssemblyInfo.cs
+D:\Asp.net core\eCommerce\Modelos\obj\Release\net5.0\Modelos.csproj.CoreCompileInputs.cache
+D:\Asp.net core\eCommerce\Modelos\obj\Release\net5.0\Modelos.MvcApplicationPartsAssemblyInfo.cache

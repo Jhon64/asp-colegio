@@ -2,8 +2,8 @@
 <project version="4">
   <component name="WebServers">
     <option name="servers">
-      <webServer id="f2b182b9-2552-4878-b4d0-b2035b634ac2" name="appColegioAsp" url="/www.colegioapptest.somee.com">
-        <fileTransfer host="colegioapptest.somee.com" port="21" />
+      <webServer id="f2b182b9-2552-4878-b4d0-b2035b634ac2" name="appColegioAsp" url="">
+        <fileTransfer rootFolder="/www.colegioapptest.somee.com" host="www.colegioapptest.somee.com" port="21" />
       </webServer>
     </option>
   </component>

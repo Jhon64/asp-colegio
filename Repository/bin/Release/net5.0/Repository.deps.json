@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v5.0": {
       "Repository/1.0.0": {
         "dependencies": {
+          "DTO": "1.0.0",
           "EntityMongo": "1.0.0",
           "EntitySQL": "1.0.0"
         },
@@ -124,6 +125,11 @@
           "System.Runtime.CompilerServices.Unsafe": "5.0.0"
         }
       },
+      "DTO/1.0.0": {
+        "runtime": {
+          "DTO.dll": {}
+        }
+      },
       "EntityMongo/1.0.0": {
         "dependencies": {
           "MongoDB.Bson": "2.12.4",
@@ -215,6 +221,11 @@
       "sha512": "sha512-4J2JQXbftjPMppIHJ7IC+VXQ9XfEagN92vZZNoG12i+zReYlim5dMoXFC1Zzg7tsnKDM7JPo5bYfFK4Jheq44w==",
       "path": "system.text.encoding.codepages/4.5.1",
       "hashPath": "system.text.encoding.codepages.4.5.1.nupkg.sha512"
+    },
+    "DTO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "EntityMongo/1.0.0": {
       "type": "project",

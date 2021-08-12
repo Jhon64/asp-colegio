@@ -168,6 +168,16 @@
           }
         }
       },
+      "DTO/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/DTO.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DTO.dll": {}
+        }
+      },
       "EntityMongo/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
@@ -466,6 +476,11 @@
         "version.txt"
       ]
     },
+    "DTO/1.0.0": {
+      "type": "project",
+      "path": "../DTO/DTO.csproj",
+      "msbuildProject": "../DTO/DTO.csproj"
+    },
     "EntityMongo/1.0.0": {
       "type": "project",
       "path": "../ENTITY/EntityMongo.csproj",
@@ -479,6 +494,7 @@
   },
   "projectFileDependencyGroups": {
     "net5.0": [
+      "DTO >= 1.0.0",
       "EntityMongo >= 1.0.0",
       "EntitySQL >= 1.0.0"
     ]
@@ -510,6 +526,9 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
+            "D:\\Asp.net core\\eCommerce\\DTO\\DTO.csproj": {
+              "projectPath": "D:\\Asp.net core\\eCommerce\\DTO\\DTO.csproj"
+            },
             "D:\\Asp.net core\\eCommerce\\EntitySQL\\EntitySQL.csproj": {
               "projectPath": "D:\\Asp.net core\\eCommerce\\EntitySQL\\EntitySQL.csproj"
             },

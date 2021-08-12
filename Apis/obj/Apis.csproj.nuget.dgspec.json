@@ -370,6 +370,12 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -413,6 +419,9 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
+              "D:\\Asp.net core\\eCommerce\\DTO\\DTO.csproj": {
+                "projectPath": "D:\\Asp.net core\\eCommerce\\DTO\\DTO.csproj"
+              },
               "D:\\Asp.net core\\eCommerce\\EntitySQL\\EntitySQL.csproj": {
                 "projectPath": "D:\\Asp.net core\\eCommerce\\EntitySQL\\EntitySQL.csproj"
               },

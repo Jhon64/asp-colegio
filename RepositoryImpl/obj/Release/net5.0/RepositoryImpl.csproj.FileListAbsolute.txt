@@ -19,3 +19,5 @@ D:\Asp.net core\eCommerce\RepositoryImpl\obj\Release\net5.0\RepositoryImpl.cspro
 D:\Asp.net core\eCommerce\RepositoryImpl\obj\Release\net5.0\RepositoryImpl.dll
 D:\Asp.net core\eCommerce\RepositoryImpl\obj\Release\net5.0\ref\RepositoryImpl.dll
 D:\Asp.net core\eCommerce\RepositoryImpl\obj\Release\net5.0\RepositoryImpl.pdb
+D:\Asp.net core\eCommerce\RepositoryImpl\bin\Release\net5.0\DTO.dll
+D:\Asp.net core\eCommerce\RepositoryImpl\bin\Release\net5.0\DTO.pdb
